@@ -5,8 +5,8 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code
 从第55天开始，我将续写这个栏目。
 由于之前的文章太多参考Avik-Jain，我也将不定期对之前的章节进行重置。
 欢迎star，另：欢迎关注我的微信公众号：机器学习算法与Python实战
+<img src="https://my-wechat.oss-cn-beijing.aliyuncs.com/8_20191119143309.png" width="50%">
 
-![机器学习算法与Python实战](https://my-wechat.oss-cn-beijing.aliyuncs.com/8_20191119143309.png)
 
 这个专栏将首发至公众号，也欢迎添加我的私人微信，一起交流，也可合作将这个项目进行到底！
 
@@ -37,7 +37,7 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code
 
 [100天搞定机器学习|Day17-18  神奇的逻辑回归](http://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2648930288&idx=1&sn=9a70bd64ee2033de479ca73f6a118529&chksm=8794e5dab0e36ccc55269d73f810e5dcf8877ee70688e45ecb8fb82b2d48fcd47fe8739a5960&scene=21#wechat_redirect)
 
-[100天搞定机器学习|Day19-20 加州理工学院公开课：机器学习与数据挖掘](http://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2648930262&idx=1&sn=9d9ba4967c125c3c3fdfa1f852a52663&chksm=8794e5fcb0e36cea0f26491280047d0c8ee164e72ab163553c9e68d8885112aec97c3d418f28&scene=21#wechat_redirect)
+[100天搞定机器学习|Day19-20 机器学习与数据挖掘](http://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2648930262&idx=1&sn=9d9ba4967c125c3c3fdfa1f852a52663&chksm=8794e5fcb0e36cea0f26491280047d0c8ee164e72ab163553c9e68d8885112aec97c3d418f28&scene=21#wechat_redirect)
 
 [100天搞定机器学习|Day21 Beautiful Soup](http://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2648930417&idx=1&sn=7d95a463c2296ca470b059fde68d7abc&chksm=8794ea5bb0e3634dbd3712d3080cfdc9d2eaca7d3798bc8b22d627cfc3cb4ee4891414c10caf&scene=21#wechat_redirect)
 
