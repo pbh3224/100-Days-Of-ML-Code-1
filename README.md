@@ -75,3 +75,5 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code
 [100天搞定机器学习|day54 聚类系列：层次聚类原理及案例](http://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2648931520&idx=2&sn=968cf54955bd0c56e696618af78a95f4&chksm=8794eeeab0e367fc7539eb55c0183ad5f46420e0d857dccfe6daa205e247b98af6741ad1f5d2&scene=21#wechat_redirect)
 
 [100天搞定机器学习|Day55 最大熵模型](https://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2648932274&idx=2&sn=5ada70291cab3119e59b26d294f80a25&chksm=8794ed98b0e3648eed6feea95ae55f00fb03110f4b77e29934554f38a0052caafb78ee877365&token=1991487213&lang=zh_CN#rd)
+
+[100天搞定机器学习|Day56 随机森林工作原理及调参实战（信用卡欺诈预测）](https://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2648932334&idx=2&sn=4a99ae273f3f7d1928a6986658ec2fe8&chksm=8794edc4b0e364d21a187a4ce487c2cf5587c648e143d3ec08105943f6e5c49be06b16f075d9&token=1822684797&lang=zh_CN#rd)
