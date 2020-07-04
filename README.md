@@ -77,3 +77,11 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code
 [100天搞定机器学习|Day55 最大熵模型](https://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2648932274&idx=2&sn=5ada70291cab3119e59b26d294f80a25&chksm=8794ed98b0e3648eed6feea95ae55f00fb03110f4b77e29934554f38a0052caafb78ee877365&token=1991487213&lang=zh_CN#rd)
 
 [100天搞定机器学习|Day56 随机森林工作原理及调参实战（信用卡欺诈预测）](https://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2648932334&idx=2&sn=4a99ae273f3f7d1928a6986658ec2fe8&chksm=8794edc4b0e364d21a187a4ce487c2cf5587c648e143d3ec08105943f6e5c49be06b16f075d9&token=1822684797&lang=zh_CN#rd)
+
+[100天搞定机器学习|Day57 Adaboost知识手册(理论篇)](https://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&amp;mid=2648932515&amp;idx=1&amp;sn=2ac90e1b53169c19140aca36bede4d70&amp;chksm=87941289b0e39b9f493f2e7b5e84ce0d943c3f3185949c0965f61f13991a63373ecc2d772184&token=1141224323&lang=zh_CN#rd)
+
+[100天搞定机器学习|Day58 多分类机器学习中数据不平衡的处理（NSL-KDD 数据集+LightGBM)](https://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&amp;mid=2648935326&amp;idx=1&amp;sn=beccf9c3000cf8e5557fb962c6b29160&amp;chksm=879419b4b0e390a2c6286e07b8c922f78d3265dc70aebfe827b977cd98d03bc159043b49ddad&token=1141224323&lang=zh_CN#rd)
+
+[100天搞定机器学习|Day59 硬核拆解GBDT](https://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&amp;mid=2648937158&amp;idx=2&amp;sn=87232a58735a3fc900daf96b7189b49d&amp;chksm=879400ecb0e389fac1922db02b425c708b568ce4e1493ed6df2297c92723af7e5767e20b5026&token=1141224323&lang=zh_CN#rd)
+
+[]()
