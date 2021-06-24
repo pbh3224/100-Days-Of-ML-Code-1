@@ -1,0 +1,16 @@
+#INITIAL SETTINGS
+data_directory: ./data/
+data_name: creditcard.csv
+target_name: Class
+test_size: 0.3
+model_directory: ./models/
+model_name: RF_classifier.pkl
+
+
+#RF parameters
+n_estimators: 50
+max_depth: 6
+min_samples_split: 5
+oob_score: True
+random_state: 666
+n_jobs: 2

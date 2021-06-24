@@ -7,12 +7,12 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code
 
 另：欢迎关注我的微信公众号：机器学习算法与Python实战
 
-<img src="https://my-wechat.oss-cn-beijing.aliyuncs.com/8_20191119143309.png" width="50%">
+<img src="officialaccount.png" width="30%">
 
 
 这个专栏将首发至公众号，也欢迎添加我的私人微信，一起交流，也可合作将这个项目进行到底！
 
-![我的私人微信](https://my-wechat.oss-cn-beijing.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190711211148_20191119143319.jpg)
+<img src="mywechat.jpeg" width="20%">
 
 添加好友麻烦备注：github
 
@@ -84,4 +84,17 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code
 
 [100天搞定机器学习|Day59 硬核拆解GBDT](https://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&amp;mid=2648937158&amp;idx=2&amp;sn=87232a58735a3fc900daf96b7189b49d&amp;chksm=879400ecb0e389fac1922db02b425c708b568ce4e1493ed6df2297c92723af7e5767e20b5026&token=1141224323&lang=zh_CN#rd)
 
-[]()
+
+[100天搞定机器学习|Day60 遇事不决，XGBoost](https://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2648948540&idx=1&sn=9b7101248effcf5e00aee7a28edb4383&chksm=87942d16b0e3a400567fc26f81d78c04a74a4ab4c45f06cab5dfd19ac6cb385c874c374b73ad&token=211056560&lang=zh_CN&scene=21#wechat_redirect)
+
+[100天搞定机器学习|Day61 手算+可视化，彻底理解XGBoost](https://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2648949016&idx=2&sn=e07df5503772e08f96a41845a36c8575&chksm=87945332b0e3da24b507f4b39f1889dae196a699a0b8e92f8fd50d498876f66e0b4803273804&token=211056560&lang=zh_CN&scene=21#wechat_redirect)
+
+[100天搞定机器学习|Day62 随机森林调参实战](https://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2648934632&idx=3&sn=22fb617d5885be57889250d839221f27&chksm=87941ac2b0e393d451917c328f3204737856a28263f8fe7258dc7b8eff7a38a9f94e580fff9c&scene=21&cur_album_id=1340752070114328576#wechat_redirect)
+
+
+
+番外：
+
+[100天搞定机器学习：模型训练好了，然后呢？](http://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2648950326&idx=2&sn=5774aa73de4d0558a2d00de39dee7bd6&chksm=8794541cb0e3dd0aad7963dc54cc99b3a677e5bbb317e106d4b0a611fd08df19daf1dec471c0&scene=21#wechat_redirect)
+
+[100天搞定机器学习：写YAML配置文件](http://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2648950329&idx=1&sn=4ed063790e872f149487fac5e5e8b826&chksm=87945413b0e3dd05c2b9f677983a60c8c693fa2faf894894194896912c95dcbf6d50ededf6a6&scene=21#wechat_redirect)
