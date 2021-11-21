@@ -7,9 +7,8 @@ from sklearn import preprocessing
 # import matplotlib.pyplot as plt
 from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import classification_report, precision_recall_curve
-import matplotlib.pyplot as plt
-import lightgbm as lgb #sklearn接口形式
-from lightgbm import LGBMClassifier
+
+import lightgbm as lgb
 
 
 def getDataSet():
@@ -57,6 +56,8 @@ def getDataSet():
 
 # train
 df = getDataSet()
+df
+
 X, y = df[df.columns[:-1]], df["good"]
 X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=0)
 

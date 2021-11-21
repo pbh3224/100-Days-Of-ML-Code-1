@@ -59,7 +59,6 @@ def getDataSet():
 df = getDataSet()
 X, y = df[df.columns[:-1]], df["good"]
 X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=0)
-
 gbm = LGBMClassifier(num_leaves=5,max_depth=2, learning_rate=0.05,min_data_in_leaf=3, n_estimators=5,max_bin = 5,min_data_in_bin=2,subsample_for_bin=17)
 #gbm.fit(X_train, y_train, eval_set=[(X_test, y_test)], early_stopping_rounds=5)
 gbm.fit(X_train, y_train)
