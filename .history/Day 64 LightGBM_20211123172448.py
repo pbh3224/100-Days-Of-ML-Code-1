@@ -32,7 +32,6 @@ def getDataSet():
         ["浅白", "蜷缩", "浊响", "模糊", "平坦", "硬滑", 0.593, 0.042, 0],
         ["青绿", "蜷缩", "沉闷", "稍糊", "稍凹", "硬滑", 0.719, 0.103, 0],
     ]
-
     features = [
         "color",
         "root",
@@ -60,6 +59,7 @@ df = getDataSet()
 X, y = df[df.columns[:-1]], df["good"]
 X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=0)
 
+<<<<<<< HEAD:.history/Day 64 LightGBM_20211123172448.py
 gbm = LGBMClassifier(
     num_leaves=5,
     max_depth=2,
@@ -74,3 +74,9 @@ gbm = LGBMClassifier(
 gbm.fit(X_train, y_train)
 
 gbm.save_model("model.txt")
+=======
+gbm = LGBMClassifier(num_leaves=5, max_depth=2, learning_rate=0.05, min_data_in_leaf=3,
+                     n_estimators=5, max_bin=5, min_data_in_bin=2, subsample_for_bin=17)
+#gbm.fit(X_train, y_train, eval_set=[(X_test, y_test)], early_stopping_rounds=5)
+gbm.fit(X_train, y_train)
+>>>>>>> 75a87411087af4b4279d9fa7a2c53a7c5daece56:Day 64 LightGBM.py
